@@ -5,9 +5,9 @@
 
 int main(void)
 {
-  hash_test();
-  format_test();
-  test_report();
+    hash_test();
+    format_test();
+    test_report();
 
-  return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
